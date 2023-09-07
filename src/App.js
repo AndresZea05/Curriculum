@@ -24,7 +24,7 @@ class App extends Component {
         
       ],
       education: [
-        {degree: 'Ingenieria de sistemas', institution: 'Universidad de la Costa (CUC)', startDate: 'feb 2020', endDate: 'Actaulidad'},
+        {degree: 'Ingenieria de sistemas', institution: 'Universidad de la Costa (CUC)', startDate: 'feb 2020', endDate: 'Actualidad'},
         {degree: 'tecnico en diseño grafico', institution: 'ITSA', startDate: 'mar 2019', endDate: 'nov 2019'},
       ],
      
