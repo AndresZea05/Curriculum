@@ -1,12 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Social from './Social';
-
+import foto from './avatar.jpg'
 const About = ({avatar, name, profession, bio, address, social}) => {
   return(
     <div className='bio'>
       <div className='avatar'>
-        <img src={avatar} zzalt={name} />
+        <img src={foto} alt={name} />
       </div>
       <div className='title'>
         <h1>{name}</h1>
